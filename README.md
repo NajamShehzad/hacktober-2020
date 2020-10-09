@@ -20,6 +20,12 @@ Name: Muneeb
 Dj Khalid
 working On: AWS, PHP
 
+-------------
+
+# hacktober-2020
+Name: Najju
+working On: Node.js, JS, PHP, AWS
+=======
 
 asdasdasd
 =======
