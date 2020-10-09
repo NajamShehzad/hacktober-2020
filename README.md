@@ -13,3 +13,8 @@ working On: JS, REACT.JS, Next.js
 Name: Muneeb
 working On: AWS, PHP
 
+-------------
+
+# hacktober-2020
+Name: Najju
+working On: Node.js, JS, PHP, AWS
