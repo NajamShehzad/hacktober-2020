@@ -18,6 +18,7 @@ working On: JS, REACT.JS, Next.js
 
 # hacktober-2020
 Name: Muneeb
+Dj Khalid
 working On: AWS, PHP
 
 
